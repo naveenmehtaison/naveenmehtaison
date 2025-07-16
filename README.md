@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey there! I'm Naveen
 
-<!--
-**naveenmehtaison/naveenmehtaison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full Stack Developer Intern | 🌐 Passionate MERN Stack Enthusiast | 🚀 Focused on Building Scalable Web Apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer Intern** with a strong passion for building modern web applications using the **MERN stack**. I love writing clean, efficient code and turning ideas into interactive user experiences.
+
+I enjoy working with:
+- 🔥 React for rich UIs
+- ⚡ Node.js + Express for backend APIs
+- ☁️ Firebase & MongoDB for real-time, scalable data
+- 💅 Tailwind for styling and design systems
+
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://www.linkedin.com/in/naveen-singh-mehta-060571322)
+---
+
+> ⚡ Always learning, always building. Let’s connect and create something awesome!
