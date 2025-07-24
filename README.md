@@ -6,6 +6,7 @@
 
 ## 👨‍💻 About Me
 My PortFolio - https://naveenmehta-portfolio.netlify.app/
+
 I'm a **Full Stack Developer Intern** with a strong passion for building modern web applications using the **MERN stack**. I love writing clean, efficient code and turning ideas into interactive user experiences.
 
 I enjoy working with:
