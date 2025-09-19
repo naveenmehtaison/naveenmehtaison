@@ -1,24 +1,32 @@
-# 👋 Hey there! I'm Naveen
+👋 Hey there! I'm Naveen
 
-🎯 Full Stack Developer Intern | 🌐 Passionate MERN Stack Enthusiast | 🚀 Focused on Building Scalable Web Apps
+🎯 Full Stack Developer Intern | 🌐 Passionate about .NET, Angular, React, SQL | 🚀 Focused on Building Scalable Web Apps
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
-My PortFolio - https://naveenmehta-portfolio.netlify.app/
+🔗 My Portfolio → naveenmehta-portfolio.netlify.app
 
-I'm a **Full Stack Developer Intern** with a strong passion for building modern web applications using the **MERN stack**. I love writing clean, efficient code and turning ideas into interactive user experiences.
+I'm a Full Stack Developer Intern with hands-on experience in building applications using .NET Core, Angular, React, and SQL Server.
+I also enjoy experimenting with the MERN stack, continuously expanding my skills, and bringing ideas to life with clean and efficient code.
 
-I enjoy working with:
-- 🔥 React for rich UIs
-- ⚡ Node.js + Express for backend APIs
-- ☁️ Firebase & MongoDB for real-time, scalable data
-- 💅 Tailwind for styling and design systems
+💡 Currently, I’m working on:
 
+⚡ Angular + .NET Core Web API for enterprise-level apps
 
-## 🌐 Connect with Me
+🛠 Dapper ORM + Stored Procedures for optimized backend performance
 
-[![LinkedIn](https://www.linkedin.com/in/naveen-singh-mehta-060571322)
----
+🗄 SQL Server for secure and efficient data management
 
-> ⚡ Always learning, always building. Let’s connect and create something awesome!
+🔥 React.js for interactive and responsive UIs
+
+🎨 Tailwind + Bootstrap for modern styling
+
+🚀 Exploring Node.js & MongoDB as part of the MERN stack journey
+
+🌐 Connect with Me
+
+LinkedIn
+
+⚡ Always learning, always building — from SQL queries to scalable full-stack apps. Let’s connect and create something awesome!
+
+Would you like me to also make separate “Tech Stack Badges” (like little logos for Angular, React, .NET, SQL, Node.js) for your GitHub README / Portfolio? That would make it look more professional.
