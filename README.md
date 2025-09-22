@@ -25,7 +25,10 @@ I also enjoy experimenting with the MERN stack, continuously expanding my skills
 
 🌐 Connect with Me
 
-LinkedIn
+🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/naveen-singh-mehta-060571322/)
+
 
 ⚡ Always learning, always building — from SQL queries to scalable full-stack apps. Let’s connect and create something awesome!
 
