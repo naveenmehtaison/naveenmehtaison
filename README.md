@@ -4,7 +4,7 @@
 
 👨‍💻 About Me
 
-🔗 My Portfolio → naveenmehta-portfolio.netlify.app
+[🔗 My Portfolio](https://naveenmehta-portfolio.netlify.app)
 
 I'm a Full Stack Developer Intern with hands-on experience in building applications using .NET Core, Angular, React, and SQL Server.
 I also enjoy experimenting with the MERN stack, continuously expanding my skills, and bringing ideas to life with clean and efficient code.
