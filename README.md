@@ -25,11 +25,9 @@ I also enjoy experimenting with the MERN stack, continuously expanding my skills
 
 🌐 Connect with Me
 
-🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/naveen-singh-mehta-060571322/)
 
 
 ⚡ Always learning, always building — from SQL queries to scalable full-stack apps. Let’s connect and create something awesome!
 
-Would you like me to also make separate “Tech Stack Badges” (like little logos for Angular, React, .NET, SQL, Node.js) for your GitHub README / Portfolio? That would make it look more professional.
